@@ -1,6 +1,6 @@
 # Rêmulo Grangeiro
 
-🙋🏻‍♂️Olá! Sou Rêmulo Grangeiro, tenho 20 anos, sou cearense e 👨🏻‍🎓formado em Tecnologia em Hotelaria pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE. Desde criancinha gosto de tecnologia e ciência, áreas nas quais recentemente tenho me aprofundado, participando de palestras, cursos, oficinas de programação, feiras de ciência e muito mais. Nessa estrada de aprendizagem, estou adquirindo conhecimento em algumas linguagens. Por conta disso, resolvi entrar de vez na área da tecnologia. Tenho alguns projetos e, em breve, eles estarão aqui no GitHub!
+🙋🏻‍♂️Olá! Sou Rêmulo Grangeiro, sou cearense, 👨🏻‍🎓formado em Tecnologia em Hotelaria pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE. Desde criancinha gosto de tecnologia e ciência, áreas nas quais recentemente tenho me aprofundado, participando de palestras, cursos, oficinas de programação, feiras de ciência e muito mais. Nessa estrada de aprendizagem, estou adquirindo conhecimento em algumas linguagens. Por conta disso, resolvi entrar de vez na área da tecnologia. Tenho alguns projetos e, em breve, eles estarão aqui no GitHub!
 
 ---
 
